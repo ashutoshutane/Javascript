@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+}
+body{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20vh;
+    background-color: black;
+}
+h1{
+    font-family: cursive;
+    color :brown
+}
+#mytext{
+    padding: 2vh;
+    position:absolute;
+    top: 30vh;
+    font-size: x-large;
+    font-family: cursive;
+    border-radius: 10px;
+}
+button{
+    position: absolute;
+    top:45vh;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: x-large;
+    border-radius: 10px;
+    color: chartreuse;
+    background-color: black;
+    border-color: aliceblue;    
+}
+button:hover{
+    color:white;
+    background-color: royalblue;
+    transition: 1s;
+}
+#message{
+    color: white;
+    position: absolute;
+    top: 60vh;
+    font-size: larger;
+    font-family: cursive;
+}

@@ -1,0 +1,28 @@
+
+#Calci{
+    /* background-color: #000; */
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-color: black;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+#result{
+    padding: 37px;
+    font-size: 29px;
+    border-radius:10px ;
+}
+#btn{
+    padding: 37px;
+    font-size: larger;
+    font-family: cursive;
+    font-weight: bolder;
+    background-color: brown;
+    border: none;
+    border-radius: 10px;
+    
+}
